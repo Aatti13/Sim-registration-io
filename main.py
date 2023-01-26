@@ -1,4 +1,23 @@
 """
+Phone-Locator-IO
+--------------------------------------------------------------------------
+I have only taken logo, speak button and search bar from the former.
+--------------------------------------------------------------------------
+Extra hexcodes got from Images...
+Link for hexcode finder: https://html-color-codes.info/colors-from-image/#
+--------------------------------------------------------------------------
+APIs:
+1. numberlookup API
+2. Google Geocoder API
+--------------------------------------------------------------------------
+The Following Code does not contain any intentional errors...
+--------------------------------------------------------------------------
+No Lines of code have been deleted or omitted and the code is complete...
+--------------------------------------------------------------------------
+API keys have been removed for security reasons
+Please use your own API key
+--------------------------------------------------------------------------
+Done by (IG): @aattreys.ks2022 
 """
 
 
